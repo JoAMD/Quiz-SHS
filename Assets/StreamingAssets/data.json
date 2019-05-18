@@ -1,0 +1,76 @@
+{
+  "Questions": [
+    {
+      "Question": "Who won IPL 2018 ?",
+      "Options": [
+        "CSK",
+        "MI",
+        "RCB",
+        "SRH"
+      ]
+    },
+    {
+      "Question": "Who is the owner of JIO ?",
+      "Options": [
+        "Mukesh Ambani",
+        "Ratan Tata",
+        "Jeff Bezos",
+        "Aditya Birla"
+      ]
+    },
+    {
+      "Question": "The tree sends down roots from its branches to the soil is know as:",
+      "Options": [
+        "Banyan",
+        "Pine",
+        "Oak",
+        "Palm"
+      ]
+    },
+    {
+      "Question": "Electric bulb filament is made of",
+      "Options": [
+        "Tungsten",
+        "Copper",
+        "Aluminium",
+        "Lead"
+      ]
+    },
+    {
+      "Question": "Brass gets discoloured in air because of the presence of which of the following gases in air?",
+      "Options": [
+        "Hydrogen Sulphide",
+        "Oxygen",
+        "Carbon Dioxide",
+        "Nitrogen"
+      ]
+    },
+    {
+      "Question": "Which of the following is a non metal that remains liquid at room temperature?",
+      "Options": [
+        "Bromine",
+        "Phosphorous",
+        "Chlorine",
+        "Helium"
+      ]
+    },
+    {
+      "Question": "Which of the following is used in pencils?",
+      "Options": [
+        "Graphite",
+        "Silicon",
+        "Charcoal",
+        "Phosphorous"
+      ]
+    },
+    {
+      "Question": "Chlorophyll is a naturally occurring chelate compound in which central metal is",
+      "Options": [
+        "Magnesium",
+        "Copper",
+        "Iron",
+        "Calcium"
+      ]
+    }
+  ]
+}
